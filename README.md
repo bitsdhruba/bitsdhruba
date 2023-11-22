@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bitsdhruba
-- 👀 I’m interested in developing web applications as I have experience in HTML CSS and JavaScript.
+- 👋 Hi, I’m Dhrubajyoti Bora
+- 👀 I’m interested in developing web applications as I have experience in HTML, CSS, JavaScript, and React.js
 - 🌱 I’m currently learning and improving my MERN-stack skills.
 - 💞️ I’m looking to collaborate on frontend projects.
 
